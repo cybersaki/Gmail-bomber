@@ -44,7 +44,6 @@ if smtp == 'gmail':
 				for count in range(int(thread)):
 					server.sendmail(email,send,msg)
 					print (count,"Mofo spammed successfully! : ")
-					count = count + 1
 
 
 

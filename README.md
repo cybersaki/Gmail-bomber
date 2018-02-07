@@ -1,4 +1,4 @@
-# Gmail bomber
+# G-Surge - Gmail Bomber
 
 A few lines and my very first code push on Github.
 
